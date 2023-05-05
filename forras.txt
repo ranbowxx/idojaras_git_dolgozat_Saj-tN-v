@@ -1,34 +1,34 @@
-2017. idõjárása
+2017. idÅ‘jÃ¡rÃ¡sa
 
-A Földön a 2017-es évet hõmérsékleti szempontból jelenleg a három legmelegebb év között tartjuk számon. A globálisan rekord meleg 2016 után, az elmúlt év 2015-tel megegyezõ értékkel került a 3. helyre. A 2017-es év hazánk területén is összességében az átlagosnál melegebb volt.
+A FÃ¶ldÃ¶n a 2017-es Ã©vet hÅ‘mÃ©rsÃ©kleti szempontbÃ³l jelenleg a hÃ¡rom legmelegebb Ã©v kÃ¶zÃ¶tt tartjuk szÃ¡mon. A globÃ¡lisan rekord meleg 2016 utÃ¡n, az elmÃºlt Ã©v 2015-tel megegyezÅ‘ Ã©rtÃ©kkel kerÃ¼lt a 3. helyre. A 2017-es Ã©v hazÃ¡nk terÃ¼letÃ©n is Ã¶sszessÃ©gÃ©ben az Ã¡tlagosnÃ¡l melegebb volt.
 
-Az évi középhõmérséklet szinte teljesen megegyezett 2016. évivel, azonban elmaradt az eddigi legmelegebb 2014-es évtõl, melyet az 1. ábra szemléltet. Homogenizált, interpolált adatok alapján 2017-ben az országos középhõmérséklet mintegy 0,8 °C-kal haladta meg az 1981-2010-es sokévi átlagot és 11,14 °C-os középhõmérsékleti értékkel 1901 óta a tizenegyedik legmelegebbnek bizonyult. Az országos évi középhõmérséklet adatokhoz illesztett lineáris trend (1. ábra) egyértelmû emelkedést mutat. Az országos évi középhõmérséklet változása az elmúlt 117 évben +1,15 °C-nak, az elmúlt 30 évre vonatkozóan pedig +1,22 °C-nak adódik.
+Az Ã©vi kÃ¶zÃ©phÅ‘mÃ©rsÃ©klet szinte teljesen megegyezett 2016. Ã©vivel, azonban elmaradt az eddigi legmelegebb 2014-es Ã©vtÅ‘l, melyet az 1. Ã¡bra szemlÃ©ltet. HomogenizÃ¡lt, interpolÃ¡lt adatok alapjÃ¡n 2017-ben az orszÃ¡gos kÃ¶zÃ©phÅ‘mÃ©rsÃ©klet mintegy 0,8 Â°C-kal haladta meg az 1981-2010-es sokÃ©vi Ã¡tlagot Ã©s 11,14 Â°C-os kÃ¶zÃ©phÅ‘mÃ©rsÃ©kleti Ã©rtÃ©kkel 1901 Ã³ta a tizenegyedik legmelegebbnek bizonyult. Az orszÃ¡gos Ã©vi kÃ¶zÃ©phÅ‘mÃ©rsÃ©klet adatokhoz illesztett lineÃ¡ris trend (1. Ã¡bra) egyÃ©rtelmÅ± emelkedÃ©st mutat. Az orszÃ¡gos Ã©vi kÃ¶zÃ©phÅ‘mÃ©rsÃ©klet vÃ¡ltozÃ¡sa az elmÃºlt 117 Ã©vben +1,15 Â°C-nak, az elmÃºlt 30 Ã©vre vonatkozÃ³an pedig +1,22 Â°C-nak adÃ³dik.
 
-Hõmérséklet
+HÅ‘mÃ©rsÃ©klet
 
-Az országos havi középhõmérséklet eltérése a sokévi (1981-2010-es) átlagtól 2017-ben
+Az orszÃ¡gos havi kÃ¶zÃ©phÅ‘mÃ©rsÃ©klet eltÃ©rÃ©se a sokÃ©vi (1981-2010-es) Ã¡tlagtÃ³l 2017-ben
 
-Januári középhõmérséklet (-4,8 °C) jelentõsen elmaradt az 1981-2010-es sokévi átlagtól
-Ezt követõen április és szeptember kivételével mindegyik hónap melegebb volt a megszokottnál.
-Márciusban a havi átlag 3,6 °C kal magasabbnak adódott a normálnál.
-Június +2,5 °C
-Augusztus +2,2 °C
-December +2,2 °C
-2017-hez köthetõ az 5. legmelegebb nyár
+JanuÃ¡ri kÃ¶zÃ©phÅ‘mÃ©rsÃ©klet (-4,8 Â°C) jelentÅ‘sen elmaradt az 1981-2010-es sokÃ©vi Ã¡tlagtÃ³l
+Ezt kÃ¶vetÅ‘en Ã¡prilis Ã©s szeptember kivÃ©telÃ©vel mindegyik hÃ³nap melegebb volt a megszokottnÃ¡l.
+MÃ¡rciusban a havi Ã¡tlag 3,6 Â°C kal magasabbnak adÃ³dott a normÃ¡lnÃ¡l.
+JÃºnius +2,5 Â°C
+Augusztus +2,2 Â°C
+December +2,2 Â°C
+2017-hez kÃ¶thetÅ‘ az 5. legmelegebb nyÃ¡r
 Valamint a 12. legmelegebb tavasz
 
-Csapadék
+CsapadÃ©k
 
-Havi csapadékösszegek 2017-ben és az 1981-2010-es átlagértékek (mm)
+Havi csapadÃ©kÃ¶sszegek 2017-ben Ã©s az 1981-2010-es Ã¡tlagÃ©rtÃ©kek (mm)
 
-Március
-2017 márciusa a szokásosnál szárazabb volt, az országos átlag 22,2 mm, ami az 1981-2010-es sokévi átlag csupán 64 %-a. A csapadék leginkább a középsõ országrészre koncentrálódott, 40-50 mm feletti értékeket eredményezve. Gerecse-tetõn regisztráltuk a legnagyobb havi összeget, 64 mm-rel. Az ország északkeleti és nyugati részein jelentkezett a legkisebb csapadékösszeg, az Õrség egyes részein 5 mm alatti értéket mértünk.
+MÃ¡rcius
+2017 mÃ¡rciusa a szokÃ¡sosnÃ¡l szÃ¡razabb volt, az orszÃ¡gos Ã¡tlag 22,2 mm, ami az 1981-2010-es sokÃ©vi Ã¡tlag csupÃ¡n 64 %-a. A csapadÃ©k leginkÃ¡bb a kÃ¶zÃ©psÅ‘ orszÃ¡grÃ©szre koncentrÃ¡lÃ³dott, 40-50 mm feletti Ã©rtÃ©keket eredmÃ©nyezve. Gerecse-tetÅ‘n regisztrÃ¡ltuk a legnagyobb havi Ã¶sszeget, 64 mm-rel. Az orszÃ¡g Ã©szakkeleti Ã©s nyugati rÃ©szein jelentkezett a legkisebb csapadÃ©kÃ¶sszeg, az ÅrsÃ©g egyes rÃ©szein 5 mm alatti Ã©rtÃ©ket mÃ©rtÃ¼nk.
 Szeptember
-A hónap meglehetõsen csapadékosnak bizonyult, homogenizált adatok szerint az országos havi csapadékösszeg meghaladta a 95 mm-t. A legcsapadékosabb területek a Dunántúl nyugati részén és a Duna-Tisza közén voltak, egyes helyeken a havi összeg elérte a 200 mm-t is. Ugyanakkor a Tiszántúlon és a Maros mentén mindössze 40 mm hullott.
-Forrás: www.met.hu
+A hÃ³nap meglehetÅ‘sen csapadÃ©kosnak bizonyult, homogenizÃ¡lt adatok szerint az orszÃ¡gos havi csapadÃ©kÃ¶sszeg meghaladta a 95 mm-t. A legcsapadÃ©kosabb terÃ¼letek a DunÃ¡ntÃºl nyugati rÃ©szÃ©n Ã©s a Duna-Tisza kÃ¶zÃ©n voltak, egyes helyeken a havi Ã¶sszeg elÃ©rte a 200 mm-t is. Ugyanakkor a TiszÃ¡ntÃºlon Ã©s a Maros mentÃ©n mindÃ¶ssze 40 mm hullott.
+ForrÃ¡s: www.met.hu
 
-Hõingás kiszámítása
-A mai legalacsonyabb hõmérésklet: 
-A mai legmagasabb hõmérésklet: 
+HÅ‘ingÃ¡s kiszÃ¡mÃ­tÃ¡sa
+A mai legalacsonyabb hÅ‘mÃ©rÃ©sklet: 
+A mai legmagasabb hÅ‘mÃ©rÃ©sklet: 
 
 <https://met.hu/eghajlat/magyarorszag_eghajlata/eghajlati_visszatekinto/elmult_evek_idojarasa/>
